@@ -13,6 +13,8 @@ pyautogui.FAILSAFE = False
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
 
+# help me 
+
 class Gest(IntEnum):
     FIST = 0
     PINKY = 1
